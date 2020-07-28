@@ -2,13 +2,13 @@
 
 Kumar wants to buy a keyboard and USB drive from a store.The store has several models.He wants to spend as much as for the 2 items from her budget.
 
-Given the Price lists for the store's keyboard and USB drives, and Poojitha's budget,find and print the amount of money Poojitha spend.
+Given the Price lists for the store's keyboard and USB drives, and Kumar's budget,find and print the amount of money Kumar spend.
 
-if she doesn't have enough money to both a keyboard and USB drive,print -1 instead.She will buy only the two required items.
+if he doesn't have enough money to both a keyboard and USB drive,print -1 instead.he will buy only the two required items.
 
 INPUT FOMRAT:
 
-  First line contains three space-seperated integers b,n and m,her budget,the number of keyboard models and the number of USB drive models.
+  First line contains three space-seperated integers b,n and m,his budget,the number of keyboard models and the number of USB drive models.
   
   Second line contains n space-separated integers keyboard[i],the prive of each keyboard model.
   
@@ -16,7 +16,7 @@ INPUT FOMRAT:
 
 OUTPUT FORMAT:
 
-  Print a single integer denoting the amount of money Poojitha will spend.If she doesn't have enough money to buy one keybourd and one USB drive,print -1 instead
+  Print a single integer denoting the amount of money Kumar will spend.If he doesn't have enough money to buy one keybourd and one USB drive,print -1 instead
 
 Input-1:
 
